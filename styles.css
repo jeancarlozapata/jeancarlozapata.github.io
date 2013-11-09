@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(255, 255, 255);
+  background-image: -moz-linear-gradient(59% 63% , rgba(172, 5, 1, 0.5) 7%, transparent 7%), -moz-linear-gradient(62% 58% , rgba(36, 219, 233, 0.5) 47%, transparent 47%), -moz-linear-gradient(79% 32% , rgba(165, 206, 244, 0.5) 6%, transparent 6%), -moz-linear-gradient(4% 51% , rgba(40, 223, 98, 0.5) 54%, transparent 54%), -moz-linear-gradient(51% 55% , rgba(0, 36, 168, 0.5) 10%, transparent 10%), -moz-linear-gradient(63% 78% , rgba(251, 146, 216, 0.5) 68%, transparent 68%), -moz-linear-gradient(38% 79% , rgba(71, 90, 65, 0.5) 46%, transparent 46%), -moz-linear-gradient(94% 34% , rgba(60, 3, 129, 0.5) 89%, transparent 89%), -moz-linear-gradient(86% 67% , rgba(38, 202, 82, 0.5) 54%, transparent 54%), -moz-linear-gradient(13% 48% , rgba(84, 25, 64, 0.5) 33%, transparent 33%), none;
+  background-position: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
+  background-clip: border-box, border-box, border-box, border-box, border-box, border-box, border-box, border-box, border-box, border-box, border-box;
+  background-origin: padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box;
+  background-size: auto auto, auto auto, auto auto, auto auto, auto auto, auto auto, auto auto, auto auto, auto auto, auto auto, auto auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: rgba(255, 255, 255, 0.95);
+  text-align: center;
+  font-size: 18px;
+  font-family: Futura,sans-serif;
+  
+  color: #ffffff;
+}
